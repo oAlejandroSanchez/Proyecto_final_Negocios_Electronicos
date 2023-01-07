@@ -1,0 +1,19 @@
+/* This file content information about the styles with CSS */
+
+body {
+    position: relative;
+    min-height: 100vh;
+    background-color: #9896A4;
+}
+
+/* NavBar */
+.style-navbar-main {
+    background-color: #C4CED6;
+}
+
+/* OSA - Computer title */
+.osa-computer-title-main {
+    font-weight: bolder;
+}
+
+/* Created by Omar Sánchez */

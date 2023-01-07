@@ -1,0 +1,34 @@
+/*
+This file content the fonts...
+*/
+
+/* Font: Indie flower */
+@font-face {
+    font-family: 'Indie-Flower';
+    src: url('../fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('woff2'),
+    url('../fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('woff'),
+    url('../fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('truetype');
+}
+
+/* Font: Orbitron */
+@font-face {
+    font-family: 'Orbitron';
+    src: url('../fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('woff2'),
+    url('../fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('woff'),
+    url('../fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
+}
+
+/* Font: Andika */
+@font-face {
+    font-family: 'Andika';
+    src: url('../fonts/Andika/Andika-Regular.ttf') format('woff2'),
+    url('../fonts/Andika/Andika-Regular.ttf') format('woff'),
+    url('../fonts/Andika/Andika-Regular.ttf') format('truetype');
+}
+
+/* Classes */
+.Indie-Flower {font-family: 'Indie-Flower';}
+.Orbitron     {font-family: 'Orbitron';}
+.Andika        {font-family: 'Andika';}
+
+/* Created by Omar Sánchez */
